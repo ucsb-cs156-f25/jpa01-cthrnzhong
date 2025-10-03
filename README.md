@@ -1,7 +1,7 @@
 # jpa01-cthrnzhong
-- http://jpa01-cthrnzhong.dokku-14.cs.ucsb.edu
+* https://jpa01-cthrnzhong.dokku-14.cs.ucsb.edu
 
-Deployed at: http://jpa01-cthrnzhong.dokku-14.cs.ucsb.edu
+Deployed at: https://jpa01-cthrnzhong.dokku-14.cs.ucsb.edu
 
 # About this repo
 
